@@ -1,4 +1,3 @@
-# CO2-emission-prediction
 # CO2 Emissions Prediction Model
 
 This Colab notebook builds and trains a model to predict CO2 emissions of vehicles in Canada based on various features.
